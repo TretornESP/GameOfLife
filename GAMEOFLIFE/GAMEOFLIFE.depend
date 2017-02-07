@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486478403 source:c:\users\xabie\documents\gameoflife\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<assert.h>
+

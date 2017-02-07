@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486476989 source:c:\users\xabie\documents\logview\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
